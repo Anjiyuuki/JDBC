@@ -22,3 +22,5 @@ git remote add origin “link”
 git remote -v (verify remote branch)
 
 git checkout master
+
+check pull now
