@@ -7,7 +7,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.example.SpringIOC_Revision.Record;
 
 public class App 
 {
