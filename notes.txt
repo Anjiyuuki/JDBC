@@ -1,0 +1,22 @@
+Git
+It is a version control system that helps to track changes in code.
+Github – website that allows developers to store and manage their code using git
+Configuring Git  
+git config --global user.name “Your Name”
+git config --global user.email “Your Email id that used to create Github account”
+git config --list
+clone & status  
+git clone url
+git init
+git status  4 different type of response you can see
+1. Untracked – new files that git doesn’t yet track
+2. Modified – changed
+3. Status – file is ready to commit
+Writing code vs code  execute program  output
+	Code  staged  Github
+4. Unmodified  Unchanged
+git commit -m “my message”
+import commands use with init command
+git init
+git remote add origin “link”
+git remote -v (verify remote branch)
