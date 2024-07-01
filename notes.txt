@@ -20,3 +20,5 @@ import commands use with init command
 git init
 git remote add origin “link”
 git remote -v (verify remote branch)
+
+git checkout master
